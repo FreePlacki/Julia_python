@@ -1,2 +1,2 @@
 # Julia_python
-Program do generowania obrazów zbioru Julii
+Program do generowania obrazów zbioru Julii (format .pgm)
